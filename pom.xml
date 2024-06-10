@@ -13,6 +13,7 @@
     <module>spring-boot-starter-whitelist</module>
     <module>spring-boot-starter-ratelimiter</module>
     <module>spring-boot-starter-db-router</module>
+    <module>spring-boot-starter-dynamic-thread-pool</module>
   </modules>
 
   <properties>
